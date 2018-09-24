@@ -6,7 +6,7 @@ I came across this problem from a homework on computer network, but TA did not t
 
 other answers below also helped a lot. Not going to talk a lot about the problem here, for I have not dived deep into and may not give something valuable here, but links in the REF are really worth reading, especially the first one, it talked a lot in details. There are also many challenging problems related, like detect specific web apps running on the server. 
 
-Recorede the problem here for it is really fascinating! 
+Recorded the problem here for it is really fascinating! 
 
 REF
 
